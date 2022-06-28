@@ -24,6 +24,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beanzinu)](https://github.com//github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beanzinu&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <!--
